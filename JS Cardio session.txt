@@ -1,0 +1,67 @@
+.split('') = Converts a string to an array 
+.reverse() = reverse an array
+.join('') = Converts an array to a string
+.toString()
+.parseInt(str) * Math.sign(int)
+.toLowerCase()
+.substring(0, 1)
+.toUpperCase()
+.slice()// slice out of the array 
+.push()
+a.concat(b)
+.includes()
+.splice(position, 0, value)
+(...rest)
+JSON.parse()
+
+forEach(a)
+sort((a, b))
+Map(a) -> Calls a function for every array element
+filter(a) 
+reduce((a, b))
+
+-------------------------------Session #1-------------------------------
+
+forEach = loop in array
+for (x in object) = loop in object
+
+Ex 1 - Reverse a string
+
+
+Ex 2 - Palindrome
+
+
+Ex 3 - Reverse int
+
+
+Ex 4 - Capitalice letter
+
+Ex 5 - return most common char in a str
+
+
+
+Session #2--------------------------------------------------------------------------------
+Ex 1: return longest word of a string
+Ex 2: Split an array into chunked arrays of a specified length
+
+
+Ex 3: Take an array of arrays and flatten to a single array
+
+
+Ex 4: Anagram
+Ex 5: Change every letter of the string to the one that follows it and capitalize the vowels
+
+
+Session #3--------------------------------------------------------------------------------
+Ex 1: Return a sum of all parameters entered regardless of the amount of numbers - NO ARRAYS
+
+
+
+Ex 2: Pass in a number to loop up to and add all of the prime numbers. A prime number is a whole number greater than 1 whose only factors are 1 and itself
+Ex 3: Remove from the array whatever is in the following arguments. Return the leftover numbers in an array
+
+Ex 6: Take in an array and return an array of the sums of even and odd numbers
+
+
+
+
